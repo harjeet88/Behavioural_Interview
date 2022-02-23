@@ -2,9 +2,7 @@
 
 ## Youtube videos
 1.[Enhance Training](https://www.youtube.com/channel/UCx9PhpO4_b6lUVy0x_SN6XA)
-
 2.[Career Vidz](https://www.youtube.com/watch?v=jyoFvSPFDIo)
-
 3.[]
 
 ## Blogs
