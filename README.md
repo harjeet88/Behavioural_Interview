@@ -10,4 +10,4 @@
 2. [Apollo Tech](https://www.apollotechnical.com/interview-questions-for-engineering-managers/)
 3. [EM Questions](https://www.freeresumebuilder.io/engineering-manager-interview-questions-answers)
 4. [Try Exponenet Guide](https://www.tryexponent.com/guides)
-5. 
+5. [Engg Manager Interview Quess](https://arc.dev/interview/engineering-manager-interview-questions-and-answers)
