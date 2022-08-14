@@ -1,6 +1,7 @@
 # Learning
 
 # course
+
 1. https://sapient.udemy.com/course/think-strategically-and-make-your-ideas-a-reality/learn/lecture/13129550#overview
    1. Strategic Thinking - Thinking long term about things which are very valuable and important
    2. Strategy - Set of steps, which you belive will give you better results than your competitor
