@@ -31,4 +31,6 @@
       4. reposition and rebrand
       5. new product launch
       6. reorganisation
-  3. 
+ ### Stop selling products, sell projects
+   1. philips case study of selling few scanner vs helping govt setup a hospital or upgrading healthcasre infra of city etc
+ ###
