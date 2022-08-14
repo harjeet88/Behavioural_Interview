@@ -20,4 +20,15 @@
  ## Project Driven world
   1. Technology will take lot of jobs in future because of automation and AI
   2. Jobs with more creativity and emotional work and people contact will stay
+  3. Project vs product world
+ 
+ ### What project, why project
+  1. long term objectivs are achived through projects
+  2. Key topics in CEO discussions
+      1. New Market entry
+      2. acuisition or diventures
+      3. business model transformation
+      4. reposition and rebrand
+      5. new product launch
+      6. reorganisation
   3. 
