@@ -33,4 +33,18 @@
       6. reorganisation
  ### Stop selling products, sell projects
    1. philips case study of selling few scanner vs helping govt setup a hospital or upgrading healthcasre infra of city etc
- ###
+ ### Successful Project
+   1. Chile saved miners from mine collapse
+   2. Rwanda reconcilliation 
+ ### 7 common pitfalls
+   1. Lack of executive support
+   2. start with clear purpose and business case
+   3. lack of clarity of project will do
+   4. poor communication and stakeholder managenet
+   5. partially dedicated and experienced
+   6. responsibility not clear. resources not available
+   7. chaing org/env
+
+### reinventing Project Management
+   1. Get benefit before project finishes
+   2. 
