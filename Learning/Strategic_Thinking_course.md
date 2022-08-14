@@ -47,4 +47,23 @@
 
 ### reinventing Project Management
    1. Get benefit before project finishes
-   2. 
+   2. mvc
+   3. deliver often
+### skills req
+   1. scope
+   2. make plan
+   3. milestones
+   4. estimate cost and resources
+   5. understand where project will be implemented - understand drivers, challenges , priorities
+   6. how project fits to address these
+   7. project leadership
+
+## Project Canvas
+   Framework to manage projects
+   4 bug areas
+   1. Why - Rational, business case and passion, why we do it
+   2. Who - accountable. responsible
+   3. What - scope
+   4. How 
+   5. When - time
+
