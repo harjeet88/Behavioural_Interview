@@ -66,4 +66,13 @@
    3. What - scope
    4. How 
    5. When - time
+   6. Where 
+
+### Boeing 777
+### time is important - iphone was idea in 2001
+   1. product ahead of time is not good
+### How and when
+   Euro rollout
+### Where
+    
 
