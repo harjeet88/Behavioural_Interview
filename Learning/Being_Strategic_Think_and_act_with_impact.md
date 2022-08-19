@@ -23,3 +23,16 @@ Link - https://sapient.udemy.com/course/being-strategic-thinking-and-acting-with
     2. competetive enabling work - directly support competitive work. eg - customer analytics work to understand customer bahviour, if customer intimacy is key diff
     3. business essential work - just needs to be done on par with competitor - accounting, HR etc, automate, reduce time and effort
     4. non-essesntial - ask if i dont do it, will it help 
+
+## 3. Learning to Think Strategically
+1. identify your job's strategic value
+     1. identify where u spend most of ur tie, operations or strategy, fix that
+2. Take help of data to see pattren, fix problems strategacaly
+3. Stakeholder management
+     1. priortise stakeholders
+
+## Challenges for behaving Strategic
+1. Pitfalls
+    1. Loss of control - work is ambigious and intangable - dont micromanage, dont emphasize the challenge
+    2. fear of failure - happens because of 1
+    3. 
