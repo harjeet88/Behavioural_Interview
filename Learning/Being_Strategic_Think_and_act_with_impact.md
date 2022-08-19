@@ -35,4 +35,6 @@ Link - https://sapient.udemy.com/course/being-strategic-thinking-and-acting-with
 1. Pitfalls
     1. Loss of control - work is ambigious and intangable - dont micromanage, dont emphasize the challenge
     2. fear of failure - happens because of 1
-    3. 
+    3. immediate gratification - set milestones and celebrate milestones
+    4. fear of disappointing others
+    5. 
