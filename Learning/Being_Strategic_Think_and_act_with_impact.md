@@ -21,5 +21,5 @@ Link - https://sapient.udemy.com/course/being-strategic-thinking-and-acting-with
 5. identify strategic work
     1. competetive work - build capability for diff , usp, best employee, most focus, quality, invest extra, last activity to compromise
     2. competetive enabling work - directly support competitive work. eg - customer analytics work to understand customer bahviour, if customer intimacy is key diff
-    3. essential work
-    4. business 
+    3. business essential work - just needs to be done on par with competitor - accounting, HR etc, automate, reduce time and effort
+    4. non-essesntial - ask if i dont do it, will it help 
