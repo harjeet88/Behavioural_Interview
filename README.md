@@ -11,3 +11,10 @@
 3. [EM Questions](https://www.freeresumebuilder.io/engineering-manager-interview-questions-answers)
 4. [Try Exponenet Guide](https://www.tryexponent.com/guides)
 5. [Engg Manager Interview Quess](https://arc.dev/interview/engineering-manager-interview-questions-and-answers)
+
+# Influence and persuation
+1. 
+
+# Negotiation
+1. https://www.youtube.com/watch?v=bUi5R54Oqig
+
