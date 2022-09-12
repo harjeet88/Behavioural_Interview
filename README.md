@@ -17,4 +17,6 @@
 
 # Negotiation
 1. https://www.youtube.com/watch?v=bUi5R54Oqig
+2. https://www.youtube.com/watch?v=oy0MD2nsZVs
+3. 
 
